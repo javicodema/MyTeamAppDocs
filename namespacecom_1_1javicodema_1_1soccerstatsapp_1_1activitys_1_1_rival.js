@@ -1,0 +1,5 @@
+var namespacecom_1_1javicodema_1_1soccerstatsapp_1_1activitys_1_1_rival =
+[
+    [ "AddEditRivalActivity", "classcom_1_1javicodema_1_1soccerstatsapp_1_1activitys_1_1_rival_1_1_add_edit_rival_activity.html", "classcom_1_1javicodema_1_1soccerstatsapp_1_1activitys_1_1_rival_1_1_add_edit_rival_activity" ],
+    [ "RivalListActivity", "classcom_1_1javicodema_1_1soccerstatsapp_1_1activitys_1_1_rival_1_1_rival_list_activity.html", "classcom_1_1javicodema_1_1soccerstatsapp_1_1activitys_1_1_rival_1_1_rival_list_activity" ]
+];

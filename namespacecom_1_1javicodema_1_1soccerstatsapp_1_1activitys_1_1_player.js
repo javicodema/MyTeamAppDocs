@@ -1,0 +1,6 @@
+var namespacecom_1_1javicodema_1_1soccerstatsapp_1_1activitys_1_1_player =
+[
+    [ "AddClubPlayerActivity", "classcom_1_1javicodema_1_1soccerstatsapp_1_1activitys_1_1_player_1_1_add_club_player_activity.html", "classcom_1_1javicodema_1_1soccerstatsapp_1_1activitys_1_1_player_1_1_add_club_player_activity" ],
+    [ "AddEditPlayerActivity", "classcom_1_1javicodema_1_1soccerstatsapp_1_1activitys_1_1_player_1_1_add_edit_player_activity.html", "classcom_1_1javicodema_1_1soccerstatsapp_1_1activitys_1_1_player_1_1_add_edit_player_activity" ],
+    [ "PlayerListActivity", "classcom_1_1javicodema_1_1soccerstatsapp_1_1activitys_1_1_player_1_1_player_list_activity.html", "classcom_1_1javicodema_1_1soccerstatsapp_1_1activitys_1_1_player_1_1_player_list_activity" ]
+];

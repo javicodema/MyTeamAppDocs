@@ -1,0 +1,5 @@
+var namespacecom_1_1javicodema_1_1soccerstatsapp_1_1activitys_1_1_training =
+[
+    [ "AddEditTrainingActivity", "classcom_1_1javicodema_1_1soccerstatsapp_1_1activitys_1_1_training_1_1_add_edit_training_activity.html", "classcom_1_1javicodema_1_1soccerstatsapp_1_1activitys_1_1_training_1_1_add_edit_training_activity" ],
+    [ "TrainingListActivity", "classcom_1_1javicodema_1_1soccerstatsapp_1_1activitys_1_1_training_1_1_training_list_activity.html", "classcom_1_1javicodema_1_1soccerstatsapp_1_1activitys_1_1_training_1_1_training_list_activity" ]
+];

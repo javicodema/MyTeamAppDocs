@@ -1,0 +1,4 @@
+var interfacecom_1_1javicodema_1_1soccerstatsapp_1_1activitys_1_1_game_1_1_events_1_1_card_fragment_baa37d6a186270f058fb38ea5ff08cab =
+[
+    [ "onFragmentInteraction", "interfacecom_1_1javicodema_1_1soccerstatsapp_1_1activitys_1_1_game_1_1_events_1_1_card_fragment_baa37d6a186270f058fb38ea5ff08cab.html#aee043a72199ee3c7461f4317dd9907d2", null ]
+];

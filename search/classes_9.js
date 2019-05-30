@@ -1,0 +1,4 @@
+var searchData=
+[
+  ['onfragmentinteractionlistener',['OnFragmentInteractionListener',['../interfacecom_1_1javicodema_1_1soccerstatsapp_1_1activitys_1_1_game_1_1_events_1_1_sub_fragment_1a74469f1c918dc51313c22c6eb0a6887.html',1,'com.javicodema.soccerstatsapp.activitys.Game.Events.SubFragment.OnFragmentInteractionListener'],['../interfacecom_1_1javicodema_1_1soccerstatsapp_1_1activitys_1_1_game_1_1_events_1_1_goal_fragment_628d0a6318483fc977d017399212af96.html',1,'com.javicodema.soccerstatsapp.activitys.Game.Events.GoalFragment.OnFragmentInteractionListener'],['../interfacecom_1_1javicodema_1_1soccerstatsapp_1_1activitys_1_1_game_1_1_events_1_1_card_fragment_baa37d6a186270f058fb38ea5ff08cab.html',1,'com.javicodema.soccerstatsapp.activitys.Game.Events.CardFragment.OnFragmentInteractionListener']]]
+];
